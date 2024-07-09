@@ -6,7 +6,7 @@ This repository holds some of my personal data analysis projects.
 3. Power BI
 4. MS SQL Server
 5. Excel
-
+---
 # Projects
 1. [Coca Cola Analysis ](https://github.com/samudra-roy/data-case-studies/tree/main/pbi_coca_cola)
 2. [Video Game Analysis ](https://github.com/samudra-roy/data-case-studies/tree/main/video_game_sales)
@@ -25,3 +25,6 @@ This repository holds some of my personal data analysis projects.
    - [Project – Revenue Prediction](https://github.com/samudra-roy/data-case-studies/tree/main/intellipaat_projects/Project%20%E2%80%93%20Revenue%20Prediction)
 4. [British Airways - Data Science Virtual Experience Programme](https://github.com/samudra-roy/data-case-studies/tree/main/British%20Airways%20-%20Data%20Science%20Virtual%20Experience%20Programme)
 5. [PWC Switzerland - Power BI Virtual Case Experience](https://github.com/samudra-roy/data-case-studies/tree/main/PWC%20Switzerland%20-%20Power%20BI%20Virtual%20Case%20Experience)
+---
+# Certificates
+👉[All Certificates](https://github.com/samudra-roy/data-case-studies/tree/main/Course%20Certificates)
