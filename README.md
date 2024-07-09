@@ -10,3 +10,6 @@ This repository holds some of my personal data analysis projects.
 # Projects
 1. [Coca Cola Analysis ](https://github.com/samudra-roy/data-case-studies/tree/main/pbi_coca_cola)
 2. [Video Game Analysis ](https://github.com/samudra-roy/data-case-studies/tree/main/video_game_sales)
+3. Intellipaat Projects
+   - [Assignments and Case Studies](https://github.com/samudra-roy/data-case-studies/tree/main/intellipaat_projects/assignments)
+   - 
