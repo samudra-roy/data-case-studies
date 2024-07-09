@@ -1,4 +1,4 @@
-This repository holds some of my personal data analysis projects that i did with the data I found over the internet.
+This repository holds some of my personal data analysis projects.
 
 **Technology used**:
 1. Python (Numpy, Pandas)
